@@ -1,0 +1,94 @@
+* {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+body{
+    background-color: grey;
+    color: white;
+}
+i{
+    padding: 0;
+    padding-right: 10px;
+}
+
+/* button{
+    min-height: 50px;
+    min-width: 200px;
+    border-radius: 0;
+    border-style: double;
+    border-color: black;
+    border-width: 5px;
+    
+} */
+
+
+button {
+    position: relative;
+    font-size: 16px;
+    font-style: bold;
+    min-height: 50px;
+    min-width: 200px;
+    margin: 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: black;
+    padding: 0;
+    box-sizing: content-box;
+    border: 5px double transparent;
+    background-color: white;
+}
+
+button::before, button::after, span::before, span::after {
+    display: block;
+    content: "";
+    width: 5px;
+    height: 5px;
+    position: absolute;
+}
+
+button::before {
+    top: -2px;
+    left: -2px;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    transition: 0.2s all;
+}
+button::after {
+    top: -2px;
+    right: -2px;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    transition: 0.2s all;
+}
+span::before {
+    bottom: -2px;
+    left: -2px;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    transition: 0.2s all;
+}
+span::after {
+    bottom: -2px;
+    right: -2px;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    transition: 0.2s all;
+}
+
+button:hover::before, button:hover::after {
+    width: 10px;
+    height: 10px;
+}
+
+button:hover span::before, button:hover span::after {
+    width: 10px;
+    height: 10px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
