@@ -34,7 +34,8 @@ i{
 .malediction{
     position: absolute;
     right: -30vw;
-    height: 400px;
+    max-height: 400px;
+    max-width: 100%;
     z-index: -11;
 }
 
