@@ -9,6 +9,8 @@ Thanks to my friends who have provided fits, and allowed me to bounce ideas off 
 ## Requirements
 Any SP requirements are estimation of what it would take to SIT IN the ship.
 You will likely need more sp to fly each ship adequately.
+Also, some ships are VERY tight on fitting.
+Training fitting skills is important.
 
 Goodluck
 Overheat Everything

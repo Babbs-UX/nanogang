@@ -1,6 +1,6 @@
 # Osprey Navy Issue
 ## Anti-Tackle
->This Ship got nerfed, probably don't use
+>This Ship got nerfed, but can still be used.
 
 ### Fitting
 ```
