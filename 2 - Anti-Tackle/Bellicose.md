@@ -1,4 +1,4 @@
-# Osprey Navy Issue
+# Bellicose
 ## Anti-Tackle
 >Total SP required : 1,576,349
 
