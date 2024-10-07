@@ -1,7 +1,7 @@
 # README
 
 ## Description
-This is the public repo for Nanogang fits, intended for use in Nano school.
+This is the public repo for Nanogang fits, intended for use in Nanogang.
 Please feel free to share these fits and the ideas within them.
 
 Thanks to my friends who have provided fits, and allowed me to bounce ideas off them.
