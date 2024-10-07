@@ -7,8 +7,11 @@ Please feel free to share these fits and the ideas within them.
 Thanks to my friends who have provided fits, and allowed me to bounce ideas off them.
 
 Special shoutout to:
+
 Godshelpdesk
+
 Blaze T Skylark
+
 Mazzic Karde
 
 ## Requirements
