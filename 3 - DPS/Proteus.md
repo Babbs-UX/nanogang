@@ -44,8 +44,5 @@ Caldari Navy Iridium Charge M x5000
 Caldari Navy Lead Charge M x5000
 Nanite Repair Paste x300
 Caldari Navy Iron Charge M x5000
-Proximity-5 'Extraction' Filament x2
 Border-5 'Pochven' Filament x2
-
-
 ```

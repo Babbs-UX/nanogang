@@ -5,7 +5,7 @@
 ### Fitting
 > The highslots are offlined and used to rep during downtime. Improve this fit by abyssaling prop, maybe repper for cap. If you have armor logi in fleet, you can swap the repper for more tank. Storyline damps are very good.
 ```
-[Keres, NanoGang - 4 - All in One]
+[Keres, Support]
 Capacitor Power Relay II
 Damage Control II
 Small Ancillary Armor Repairer
