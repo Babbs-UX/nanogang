@@ -4,17 +4,17 @@
 
 ### Fitting
 ```
-[Legion, DPS]
+[Legion, NanoGang - 3 - Sniper]
 Heat Sink II
 Heat Sink II
 Heat Sink II
 Nanofiber Internal Structure II
-Sentient Signal Amplifier
-True Sansha Power Diagnostic System
+Reactor Control Unit II
+Signal Amplifier II
 
-Gistum C-Type 50MN Microwarpdrive
-Remote Sensor Dampener II
-Remote Sensor Dampener II
+Corelum C-Type 50MN Microwarpdrive
+Republic Fleet Large Shield Extender
+Small Capacitor Booster II
 
 Covert Ops Cloaking Device II
 Heavy Beam Laser II
@@ -36,13 +36,10 @@ Legion Propulsion - Intercalated Nanofibers
 
 
 
-Aurora M x6
-Imperial Navy Multifrequency M x6
 Sisters Combat Scanner Probe x16
-Targeting Range Dampening Script x2
+Navy Cap Booster 400 x32
+Imperial Navy Multifrequency M x6
+Aurora M x12
 Sisters Core Scanner Probe x16
 Imperial Navy Standard M x6
-Imperial Navy Infrared M x6
-Nanite Repair Paste x500
-Imperial Navy Microwave M x6
 ```

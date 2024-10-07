@@ -5,29 +5,29 @@
 ### Fitting
 > The highslots are offlined and used to rep during downtime. Improve this fit by abyssaling prop, maybe repper for cap. If you have armor logi in fleet, you can swap the repper for more tank. Storyline damps are very good.
 ```
-[Garmur, Screen]
-Nanofiber Internal Structure II
-Nanofiber Internal Structure II
-Micro Auxiliary Power Core II
+[Keres, NanoGang - 4 - All in One]
+Capacitor Power Relay II
+Damage Control II
+Small Ancillary Armor Repairer
 
-Republic Fleet Medium Shield Extender
-Republic Fleet Warp Disruptor
-Coreli A-Type 5MN Microwarpdrive
-Shadow Serpentis Warp Scrambler
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+Remote Sensor Dampener II
+LFT Enduring Sensor Dampener
+5MN Quad LiF Restrained Microwarpdrive
 
-Light Missile Launcher II
-Light Missile Launcher II
-Light Missile Launcher II
+Small Solace Scoped Remote Armor Repairer
+Small Remote Hull Repairer I
 
 Small Ionic Field Projector II
-Small Ionic Field Projector II
-Small Auxiliary Thrusters II
+Small Inverted Signal Field Projector II
 
 
 
+Hornet EC-300 x2
 
-Caldari Navy Mjolnir Light Missile x1359
-Nanite Repair Paste x500
-Caldari Navy Nova Light Missile x1200
-Caldari Navy Inferno Light Missile x1200
+Nanite Repair Paste x124
+Scan Resolution Dampening Script x4
+Targeting Range Dampening Script x4
+Mobile Depot x1
 ```
