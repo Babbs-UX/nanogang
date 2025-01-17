@@ -5,38 +5,41 @@
 ### Fitting
 ```
 [Vedmak, Anti-Tackle]
-Entropic Radiation Sink II
-Entropic Radiation Sink II
 Damage Control II
-Multispectrum Energized Membrane II
+Entropic Radiation Sink II
+Entropic Radiation Sink II
 Nanofiber Internal Structure II
 Medium Ancillary Armor Repairer
+Tracking Enhancer II
 
-50MN Quad LiF Restrained Microwarpdrive
-Warp Disruptor II
 Medium F-RX Compact Capacitor Booster
+Warp Disruptor II
+50MN Cold-Gas Enduring Microwarpdrive
 Tracking Computer II
 
-Medium Energy Neutralizer II
+Core Probe Launcher II
 Medium Energy Neutralizer II
 Heavy Entropic Disintegrator II
 
-Medium Ancillary Current Router I
-Medium Hyperspatial Velocity Optimizer II
+Medium Capacitor Control Circuit I
 Medium Polycarbon Engine Housing II
+Medium Capacitor Control Circuit II
 
 
 
-Warrior II x5
 Valkyrie II x5
+Warrior II x5
 
 Optimal Range Script x1
 Tracking Speed Script x1
-Tetryon Exotic Plasma M x500
-Navy Cap Booster 800 x21
-Meson Exotic Plasma M x869
-Occult M x500
-Mystic M x500
-Nanite Repair Paste x320
+Tetryon Exotic Plasma M x1000
+Navy Cap Booster 800 x20
+Sisters Core Scanner Probe x8
+Meson Exotic Plasma M x1500
+Occult M x1000
+Mystic M x1000
+Nanite Repair Paste x150
+Synth Mindflood Booster x1
+Agency 'Overclocker' SB5 Dose II x1
 Border-5 'Pochven' Filament x1
 ```
