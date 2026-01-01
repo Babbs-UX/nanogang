@@ -15,16 +15,16 @@ When stocking ships for nanogang, try to grab one for each role so you can fill 
 
 ## Roles
 ### Screen
-Your job is to driveby scram fast ships that are threatening your fleet. If all fleet members are safe, your job is to grab tackle and call for it to be primaried.
+Hold down targets and driveby scram things that are a threat. Position yourself between enemy fleet and friendly fleet.
 
 ### Anti-Tackle
 Your job is to make sure no frigs or destroyers have a chance to threaten your gang by forcing them off with your dps, or killing them.
 
 ### DPS
-Your job is to focus primarys. Generally, there may be 1 or 2 DPS ships in a nanogang fleet, so you decide the primarys.
+Your job is to focus primaries. Generally, there may be 1 or 2 DPS ships in a nanogang fleet, so you decide the primaries.
 
 ### Support
-This is a catch all for links and ewar. In the current meta, prioritize a **Keres** here over everything else.
+This is a catch all for links and ewar. In the current meta, prioritize a **Keres, Maulus, Celestis or Sentinel** here over everything else.
 
 ## Description
 This is the public repo for Nanogang fits, intended for use in Nanogang.
