@@ -1,6 +1,5 @@
 # Naga
 ## DPS
->This is not as strong as the Oracle or the Talos currently.
 >Credit to Mazzic
 
 ### Fitting
