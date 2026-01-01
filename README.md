@@ -9,6 +9,21 @@ If you have 3 players:
 
 If you have more than 4, sprinkle in other roles as needed, generally with DPS or Anti-Tackle first.
 
+Once you start pushing past 7 or 8 pilots in fleet, you may get way over escalated on, or no fight at all.
+
+## Roles
+### Screen
+Your job is to driveby scram fast ships that are threatening your fleet. If all fleet members are safe, your job is to grab tackle and call for it to be primaried.
+
+### Anti-Tackle
+Your job is to make sure no frigs or destroyers have a chance to threaten your gang by forcing them off with your dps, or killing them.
+
+### DPS
+Your job is to focus primarys. Generally, there may be 1 or 2 DPS ships in a nanogang fleet, so you decide the primarys.
+
+### Support
+This is a catch all for links and ewar. In the current meta, prioritize a **Keres** here over everything else.
+
 ## Description
 This is the public repo for Nanogang fits, intended for use in Nanogang.
 Please feel free to share these fits and the ideas within them.
@@ -30,5 +45,5 @@ Also, some ships are VERY tight on fitting.
 Training fitting skills is important.
 
 Goodluck
-Overheat Everything
+Overheat Nanofiber
 Fly Dangerous
