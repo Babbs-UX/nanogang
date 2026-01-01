@@ -1,6 +1,7 @@
 # Hecate
 ## Anti-Tackle
 >Total SP required: 1,272,550
+>~200 dps @ 78k, 2.1k/3.3km/s
 
 ### Fitting
 

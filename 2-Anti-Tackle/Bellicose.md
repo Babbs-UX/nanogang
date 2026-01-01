@@ -1,6 +1,7 @@
 # Bellicose
 ## Anti-Tackle
 >Total SP required : 1,576,349
+>This was made as a replacement for the Caracal. Still needs testing.
 
 ### Fitting
 ```

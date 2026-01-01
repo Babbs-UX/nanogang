@@ -1,9 +1,10 @@
 # Orthrus
 ## Anti-Tackle
 >Total SP required: 1,285,476
+>400dps @ 63k
 
 ### Fitting
-> This is by far the best anti-tackle ship available.
+> This is by far the best anti-tackle ship available. Recommend blinging the mids.
 ```
 [Orthrus, Anti-Tackle]
 Nanofiber Internal Structure II

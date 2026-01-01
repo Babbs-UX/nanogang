@@ -2,7 +2,7 @@
 ## Screen
 
 ### Fitting
-> Newbro screener. Only fly this until you can fly the Garmur.
+> Newbro screener. Only fly this until you can't fly the Garmur.
 ```
 [Slasher, Helmet Screen]
 Nanofiber Internal Structure II

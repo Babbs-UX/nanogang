@@ -1,6 +1,7 @@
 # Vedmak
 ## Anti-Tackle
 >Total SP required: 2,976,888
+>162-507 dps @ 67k
 
 ### Fitting
 ```
