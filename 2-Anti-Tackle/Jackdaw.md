@@ -1,6 +1,7 @@
 # Jackdaw
 ## Anti-Tackle
->~220 dps @ 120k, 2.1k/2.9km/s, damp for the meme.
+>~220 dps @ 120k
+
 ### Fitting
 >Offline the probe launcher.
 ```
