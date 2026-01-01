@@ -44,6 +44,6 @@ You will likely need more sp to fly each ship adequately.
 Also, some ships are VERY tight on fitting.
 Training fitting skills is important.
 
-Goodluck
-Overheat Nanofiber
+Goodluck,
+Overheat Nanofiber,
 Fly Dangerous
