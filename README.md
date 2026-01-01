@@ -11,6 +11,8 @@ If you have more than 4, sprinkle in other roles as needed, generally with DPS o
 
 Once you start pushing past 7 or 8 pilots in fleet, you may get way over escalated on, or no fight at all.
 
+When stocking ships for nanogang, try to grab one for each roll so you can fill whatever is needed.
+
 ## Roles
 ### Screen
 Your job is to driveby scram fast ships that are threatening your fleet. If all fleet members are safe, your job is to grab tackle and call for it to be primaried.
