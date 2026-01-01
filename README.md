@@ -1,5 +1,14 @@
 # README
 
+## Usage
+Build a Nanogang fleet, using the numbers for each role:
+>1>2>3>4
+
+If you have 3 players:
+>1>2>3
+
+If you have more than 4, sprinkle in other roles as needed, generally with DPS or Anti-Tackle first.
+
 ## Description
 This is the public repo for Nanogang fits, intended for use in Nanogang.
 Please feel free to share these fits and the ideas within them.
