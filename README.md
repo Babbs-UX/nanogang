@@ -40,6 +40,10 @@ Blaze T Skylark
 
 Mazzic Karde
 
+Battery-Man
+
+Validium Cor
+
 ## Requirements
 Any SP requirements are estimation of what it would take to SIT IN the ship.
 You will likely need more sp to fly each ship adequately.
