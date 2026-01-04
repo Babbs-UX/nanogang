@@ -4,7 +4,7 @@
 ### Fitting
 
 ```
-[Maulus, *Brasse]
+[Maulus, Support]
 200mm Crystalline Carbonide Restrained Plates
 Small Ancillary Armor Repairer
 IFFA Compact Damage Control
