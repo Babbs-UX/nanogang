@@ -44,6 +44,8 @@ Battery-Man
 
 Validium Cor
 
+Tackle Man
+
 ## Requirements
 Any SP requirements are estimation of what it would take to SIT IN the ship.
 You will likely need more sp to fly each ship adequately.
