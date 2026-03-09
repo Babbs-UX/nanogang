@@ -8,10 +8,10 @@ Nanofiber Internal Structure II
 Nanofiber Internal Structure II
 Magnetic Field Stabilizer II
 Magnetic Field Stabilizer II
-Tracking Enhancer II
+Signal Amplifier II
 
 Large Shield Extender II
-Large Shield Extender II
+Medium Micro Jump Drive
 50MN Cold-Gas Enduring Microwarpdrive
 Tracking Computer II
 
@@ -32,9 +32,12 @@ Medium Hybrid Locus Coordinator II
 
 Warrior II x5
 
-Tracking Speed Script x2
-Javelin L x1280
-Caldari Navy Antimatter Charge L x3200
-Caldari Navy Thorium Charge L x3200
 Optimal Range Script x1
+Javelin L x1280
+Caldari Navy Thorium Charge L x3200
+Spike L x3200
+Tracking Speed Script x1
+Caldari Navy Lead Charge L x3200
+Caldari Navy Antimatter Charge L x3200
+Caldari Navy Iron Charge L x3200
 ```
