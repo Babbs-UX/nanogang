@@ -1,46 +1,42 @@
 # Vedmak
 ## Anti-Tackle
->Total SP required: 2,976,888
->162-507 dps @ 67k
+>Fit by TackleMan
 
 ### Fitting
 ```
 [Vedmak, Anti-Tackle]
-Damage Control II
+
 Entropic Radiation Sink II
 Entropic Radiation Sink II
-Nanofiber Internal Structure II
-Medium Ancillary Armor Repairer
-Tracking Enhancer II
+Imperial Navy 400mm Steel Plates
+Federation Navy Multispectrum Energized Membrane
+Reactive Armor Hardener
+Medium Ancillary Armor Repairer, Nanite Repair Paste
 
-Medium F-RX Compact Capacitor Booster
-Warp Disruptor II
-50MN Cold-Gas Enduring Microwarpdrive
-Tracking Computer II
+50MN Quad LiF Restrained Microwarpdrive
+Medium F-RX Compact Capacitor Booster, Navy Cap Booster 800
+Federation Navy Stasis Webifier
+Dread Guristas Warp Disruptor
 
-Core Probe Launcher II
+Veles Heavy Entropic Disintegrator, Mystic M
 Medium Energy Neutralizer II
-Heavy Entropic Disintegrator II
+Medium Energy Neutralizer II
+Small Energy Neutralizer II
 
-Medium Capacitor Control Circuit I
+Medium Ancillary Current Router II
+Medium Polycarbon Engine Housing I
 Medium Polycarbon Engine Housing II
-Medium Capacitor Control Circuit II
-
-
 
 Valkyrie II x5
 Warrior II x5
 
-Optimal Range Script x1
-Tracking Speed Script x1
-Tetryon Exotic Plasma M x1000
-Navy Cap Booster 800 x20
-Sisters Core Scanner Probe x8
-Meson Exotic Plasma M x1500
-Occult M x1000
 Mystic M x1000
-Nanite Repair Paste x150
-Synth Mindflood Booster x1
-Agency 'Overclocker' SB5 Dose II x1
-Border-5 'Pochven' Filament x1
+Occult M x1000
+Navy Cap Booster 800 x18
+Meson Exotic Plasma M x1000
+Tetryon Exotic Plasma M x1000
+Nanite Repair Paste x650
+Agency 'Overclocker' SB5 Dose II x2
+Synth Exile Booster x2
+Synth Frentix Booster x2
 ```
