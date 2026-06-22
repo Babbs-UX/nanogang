@@ -1,4 +1,6 @@
 # README
+## UPDATE
+I am reorganizing this repo currently, and splitting fits into Armor and Shield.
 
 ## Usage
 Build a Nanogang fleet, using the numbers for each role:
