@@ -1,6 +1,7 @@
 # README
 ## UPDATE
 I am reorganizing this repo currently, and splitting fits into Armor and Shield.
+![Easily find a ship screenshot](/docs/img/T_search.jpg)
 ### To easily find a ship, hit [T] (go to file) if viewing on github.
 
 
