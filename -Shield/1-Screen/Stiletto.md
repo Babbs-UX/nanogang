@@ -5,7 +5,7 @@
 >The Stiletto is much tighter on fitting than the malediction. You can fly this, but a gravid abyssaled Malediction tends to be way more bang for the buck. Stiletto is better than the Malediction for hyperbling, but hard to fit.
 
 ```
-[Stiletto, Fast Tackle ζ]
+[Stiletto, Screen]
 Damage Control II
 Nanofiber Internal Structure II
 Nanofiber Internal Structure II

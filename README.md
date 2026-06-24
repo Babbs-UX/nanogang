@@ -1,4 +1,11 @@
 # README
+## UPDATE
+I am reorganizing this repo currently, and splitting fits into Armor and Shield.
+
+![Screenshot](/docs/img/T_search.jpg)
+
+### To easily find a ship, hit [T] (go to file) if viewing on github.
+
 
 ## Usage
 Build a Nanogang fleet, using the numbers for each role:
@@ -34,17 +41,17 @@ Thanks to my friends who have provided fits, and allowed me to bounce ideas off 
 
 Special shoutout to:
 
-Godshelpdesk
+TackleMan - For many fits
 
-Blaze T Skylark
+Godshelpdesk - Much advice and fitting Guru
 
-Mazzic Karde
+Blaze T Skylark - Fitting advice
 
-Battery-Man
+Mazzic Karde - Logi fits
 
-Validium Cor
+Battery-Man - Fitting advice
 
-Tackle Man
+Validium Cor - Fitting advice
 
 ## Requirements
 Any SP requirements are estimation of what it would take to SIT IN the ship.
