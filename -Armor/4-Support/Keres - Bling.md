@@ -1,25 +1,25 @@
-# Keres
+# Keres - Bling
 ## Support
 > This is a role for very skilled pilots. You will need to know what to damp. Damp the wrong thing and the whole fleet dies.
 
 ### Fitting
-> The highslots are offlined and used to rep during downtime. Improve this fit by abyssaling prop, maybe repper for cap. If you have armor logi in fleet, you can swap the repper for more tank. Storyline damps are very good.
+> This is blinged, only use if you have the money.
 ```
 [Keres, Support]
 Federation Navy 200mm Steel Plates
 Damage Control II
-Small Ancillary Armor Repairer
+Centii A-Type Small Armor Repairer
 
-LFT Enduring Sensor Dampener
-Remote Sensor Dampener II
-Remote Sensor Dampener II
-Remote Sensor Dampener II
-5MN Cold-Gas Enduring Microwarpdrive
+'Executive' Remote Sensor Dampener
+'Executive' Remote Sensor Dampener
+'Executive' Remote Sensor Dampener
+'Executive' Remote Sensor Dampener
+Coreli A-Type 5MN Microwarpdrive
 
 Core Probe Launcher I
 Small Remote Hull Repairer I
 
-Small Capacitor Control Circuit II
+Small Explosive Armor Reinforcer II
 Small Ionic Field Projector II
 
 
